@@ -1,7 +1,5 @@
 "Joao"
 "Lucas"
-"Rafael"
-"Valdir"
 
 
 "Goncalves"

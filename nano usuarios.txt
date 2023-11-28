@@ -1,0 +1,45 @@
+[33mcommit bf76ea4811b99f8fa9eb93273da718682d8a31f8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 90265b3 64dfc3f
+Author: Joao <joaoluca2909@gmail.com>
+Date:   Tue Nov 28 08:03:39 2023 -0300
+
+    Merge branch 'main' of https://github.com/Oliveira-Jovs/GCSaula28
+    
+    Merge branch 'main' of https://github.com/Oliveira-Jovs/GCSaula28
+    
+    the commit.
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    .git/MERGE_MSG[+] [unix] (08:03 28/11/2023)                              8,1 All
+    -- INSERT --
+    the commit.
+
+[33mcommit 64dfc3f8c659be7ea160107a5ad5e26ca7a5bbf8[m
+Author: Oliveira-Jovs <133714871+Oliveira-Jovs@users.noreply.github.com>
+Date:   Tue Nov 28 07:59:43 2023 -0300
+
+    Initial commit
+
+[33mcommit 90265b368b15919383d068ec2e12ffed5c782330[m
+Author: Joao <joaoluca2909@gmail.com>
+Date:   Tue Nov 28 07:58:44 2023 -0300
+
+    Pagina da Disciplina
+
+[33mcommit 6f1430f9295f49cc1d98daca3a933462c0d7c8e5[m
+Author: Joao <joaoluca2909@gmail.com>
+Date:   Tue Nov 28 07:54:15 2023 -0300
+
+    Inserindo usuarios dia 28
